@@ -1,0 +1,16 @@
+{
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "This is simple Qr code generator Made by Tejasvi Bihari With the help of udemy",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tejasvi Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.7",
+    "qr-image": "^3.2.0"
+  }
+}
